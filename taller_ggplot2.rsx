@@ -1,4 +1,6 @@
 # Esto es un ejemplo de vinculación qgis+R, esta línea es un comentario 
+# Require permisos de Administrador si se desea escribir datos en C:/ 
+
 ##Taller = group
 ##Carpeta=folder
 ##Punto=vector point
