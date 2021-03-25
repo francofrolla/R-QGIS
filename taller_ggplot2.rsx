@@ -44,5 +44,5 @@ ggsave(file=paste(ruta,"/",nombre1,sep=""), arreglo)
 #Genero una tabla aleatoria para cargar en qgis
 tabla<-data.frame(datos[datos>5])
 
-aver<-"mira vos"
+
 Tablasalida<-tabla
