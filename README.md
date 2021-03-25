@@ -4,7 +4,7 @@ Uso de R con QGIS usando R proccesing provider
 **Presentación**
 https://docs.google.com/presentation/d/1TTtnsAc9YrDiwFqe1mcbZi3n_r-YBp8-0A3rTnp5DGQ/edit?usp=sharing
 
-**Instalación**
+## Instalación
 
 QGIS> Administrar e instalar complementos > Instalar a partir de ZIP > processing_r-2.0.0.zip
 
