@@ -1,4 +1,4 @@
-# Esto es un ejemplo de vinculación qgis+R, esta línea es un comentario 
+# Esto es un ejemplo de vinculación qgis+R, este script no ejecuta ninguna tarea en particular.
 ##Taller = group
 ##Punto=vector point
 ##Punto=vector point
